@@ -1,0 +1,13 @@
+/out/
+/cache/
+node_modules/
+web/dist/
+.env
+.env.*
+!.env.example
+/SPEC.md
+/docs/imd/
+/audits/
+/web/
+/brand/
+/docs/FIX-BATCH-*.md
